@@ -1,0 +1,180 @@
+
+
+.title-h1{
+   padding-top: 20px;
+   
+}
+.title-h1 h1{
+   font-size: 2rem;
+}
+.section{
+   
+   flex-direction: column;
+   padding-left: 10px;
+   
+}
+.section a{
+   margin-left: 0px;
+   margin-top: 5px;
+}
+.custom-card{
+   flex-direction: column;
+   
+}
+.custom-shadow{
+   width: 90%;
+   height: auto;
+   margin: 0;
+   margin-left: 1rem;
+
+ /*margin-top: 2rem;
+ margin-left: 1rem;*/
+
+}
+.project-one{
+   flex-direction: column;
+   text-align: center;
+
+}
+.project-two{
+   flex-direction: column;
+   text-align: center;
+
+}
+.project-one div{
+   padding-top: 1rem;
+}
+.project-two div{
+
+   padding-top: 1rem;
+}
+
+.footer{
+   flex-direction: column;
+
+}
+.footer div{
+   padding-left: 2rem;
+   margin: 0;
+}
+
+@media (min-width: 100px) and (max-width: 500px){
+   .custom-images{
+   width: 110px;
+   height: 83px;
+   
+      margin-left: 0px;
+   }
+
+   .custom-background{
+      background-size: cover;
+      height:  40vh;
+   }
+   .h-title h2{
+      padding: 1rem 0rem;
+      font-weight: 300;
+      color: black;
+      margin-left: 1.5rem;
+  }
+  .h-section{
+   flex-direction: column;
+  }
+  .h-section img{
+   width: 100%;
+   height: auto;
+  padding: 0;
+  padding-bottom: 100px;
+  }
+  .h-title-a{
+   flex-direction: column;
+   padding-left: 1rem;
+  }
+ .h-title-a h3{
+   padding-bottom: 1rem;
+ }
+
+.h-section-two{
+   flex-direction: column;
+   margin: 0;
+   padding: 0;
+   margin-top: 4rem;
+   margin-left: 2rem;
+  
+}
+.h-section-two img{
+   width: 90%;
+   height: auto;
+  
+}
+.h-position{
+   padding: 0;
+   margin: 0;
+   padding-top: 10rem;
+  
+}
+.h-position h1{
+   font-size: 2.5rem;
+}
+.k-section{
+   width: 90%;
+   height: auto;
+}
+.p-flex{
+   flex-direction: column;
+}
+.p-img{
+   padding-top: 2rem;
+   margin: 0;
+   text-align: center;
+}
+.form{
+   flex-direction: column;
+   margin-left: 0.5rem;
+   margin-right: 0.5rem;
+}
+.ha-form{
+   width: 100%;
+   height: auto;
+}
+
+.ha-form-two{
+   width: 100%;
+   height: auto;
+}
+.i-section{
+   margin-left: 0rem;
+   margin-top: 0rem;
+}
+.i-iframe iframe{
+   margin-top: 1rem;
+   width: 100%;
+   height: 300px;
+}
+.i-i{
+   margin-left: 1rem;
+}
+.i-form div{
+   margin-left: 0rem;
+}
+.i-form h4{
+   margin-left: 2rem;
+   margin-top: 2rem;
+
+}
+.i-form div input{ 
+
+   width: 90%;
+   height: auto;}
+
+   .i-form div textarea{
+      width: 90%;
+      height: auto;
+   }
+.i-form{
+   margin-left: 1rem;
+}     
+.i-button{
+   margin-left: 2rem;
+}
+
+}
